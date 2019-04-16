@@ -1,0 +1,13 @@
+/home/sqest215/Documentos/projetos/provaConceito/crud-api/target/debug/deps/liburl-e437857441c6fe0b.rlib: /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/lib.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/encoding.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/host.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/origin.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/path_segments.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/parser.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/slicing.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/form_urlencoded.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/quirks.rs
+
+/home/sqest215/Documentos/projetos/provaConceito/crud-api/target/debug/deps/url-e437857441c6fe0b.d: /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/lib.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/encoding.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/host.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/origin.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/path_segments.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/parser.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/slicing.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/form_urlencoded.rs /home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/quirks.rs
+
+/home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/lib.rs:
+/home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/encoding.rs:
+/home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/host.rs:
+/home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/origin.rs:
+/home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/path_segments.rs:
+/home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/parser.rs:
+/home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/slicing.rs:
+/home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/form_urlencoded.rs:
+/home/sqest215/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/quirks.rs:

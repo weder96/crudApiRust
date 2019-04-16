@@ -1,0 +1,1 @@
+/home/sqest215/Documentos/projetos/provaConceito/crud-api/target/debug/crud-api: /home/sqest215/Documentos/projetos/provaConceito/crud-api/src/hero.rs /home/sqest215/Documentos/projetos/provaConceito/crud-api/src/main.rs
